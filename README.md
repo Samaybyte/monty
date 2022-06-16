@@ -1,2 +1,2 @@
 # monty
-Project for Stacks, Queues - LIFO, FIFO
+Project for C language - on Stacks, Queues - LIFO, FIFO
